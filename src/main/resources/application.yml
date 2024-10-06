@@ -1,0 +1,5 @@
+foo:
+  bar: ${FOO_BAR:puci}
+quarkus:
+  helm:
+    map-system-properties: true
